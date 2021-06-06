@@ -1,0 +1,16 @@
+C:\Users\abcd8\Documents\VScode\SHA256test\bin\Debug\net5.0\SHA256test.exe
+C:\Users\abcd8\Documents\VScode\SHA256test\bin\Debug\net5.0\SHA256test.deps.json
+C:\Users\abcd8\Documents\VScode\SHA256test\bin\Debug\net5.0\SHA256test.runtimeconfig.json
+C:\Users\abcd8\Documents\VScode\SHA256test\bin\Debug\net5.0\SHA256test.runtimeconfig.dev.json
+C:\Users\abcd8\Documents\VScode\SHA256test\bin\Debug\net5.0\SHA256test.dll
+C:\Users\abcd8\Documents\VScode\SHA256test\bin\Debug\net5.0\ref\SHA256test.dll
+C:\Users\abcd8\Documents\VScode\SHA256test\bin\Debug\net5.0\SHA256test.pdb
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.csproj.AssemblyReference.cache
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.AssemblyInfoInputs.cache
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.AssemblyInfo.cs
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.csproj.CoreCompileInputs.cache
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.dll
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\ref\SHA256test.dll
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.pdb
+C:\Users\abcd8\Documents\VScode\SHA256test\obj\Debug\net5.0\SHA256test.genruntimeconfig.cache
